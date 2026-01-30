@@ -3,7 +3,7 @@ import { roadmap } from '../constants'
 import Button from './Button'
 import Heading from './Heading'
 import Section from './Section'
-import TagLine from './Tagline'
+import TagLine from './TagLine'
 import { Gradient } from './design/Roadmap'
 
 const Roadmap = () => {
